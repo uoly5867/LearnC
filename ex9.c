@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
   name[2] = 'd';
   name[3] = '\0';
 
-  printf("name as int: %d", name);
+  //printf("name as int: %d", name);
 
   // then print them out initialized
   printf("numnbers: %d %d %d %d\n", 
